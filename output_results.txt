@@ -1,0 +1,435 @@
+Open Rate R-squared(Accuracy): 0.8812456319242009
+Click Rate R-squared(Accuracy): 0.881555364609131
+For Division 'To Be Mapped', Region 'APJ', and MAP_B&B 'Batch & Blast':
+Top 5 Keywords for Open Rate:
+aav: 1.811402044582137e-05
+accelerate: 2.3549667883249096e-07
+achieving: 1.5856193825650983e-05
+activity: 3.1568651121412396e-06
+allows: 2.8125537418905905e-05
+
+Top 5 Keywords for Click Rate:
+aav: 3.129083810093202e-07
+accelerate: 4.9686252383112625e-08
+achieving: 3.443980502653445e-06
+activity: 1.3309265054798604e-06
+allows: 1.6522646468921846e-06
+
+For Division 'To Be Mapped', Region 'APJ', and MAP_B&B 'MAP':
+Top 5 Keywords for Open Rate:
+available: 3.6165073983917624e-06
+liquid: 2.3549667883249096e-07
+maximize: 3.1568651121412396e-06
+method: 2.3540879794570147e-06
+minutes: 1.3289464945866516e-07
+
+Top 5 Keywords for Click Rate:
+available: 1.9092431443473664e-07
+large: 4.5544237236372265e-07
+learn: 3.129083810093202e-07
+liquid: 4.9686252383112625e-08
+monoclonal: 3.1034761856166724e-07
+
+For Division 'To Be Mapped', Region 'GC', and MAP_B&B 'Batch & Blast':
+Top 5 Keywords for Open Rate:
+
+Top 5 Keywords for Click Rate:
+efficiency: 2.1744687385539493e-08
+launch: 5.094464217199197e-08
+
+For Division 'To Be Mapped', Region 'GC', and MAP_B&B 'MAP':
+Top 5 Keywords for Open Rate:
+
+Top 5 Keywords for Click Rate:
+consider: 2.1744687385539493e-08
+free: 5.094464217199197e-08
+
+For Division 'To Be Mapped', Region 'To Be Mapped', and MAP_B&B 'Batch & Blast':
+Top 5 Keywords for Open Rate:
+hours: 2.3549667883249096e-07
+improve: 3.1568651121412396e-06
+invited: 2.3540879794570147e-06
+kit: 1.3289464945866516e-07
+line: 1.480498454545107e-07
+
+Top 5 Keywords for Click Rate:
+highly: 3.129083810093202e-07
+hours: 4.9686252383112625e-08
+knowledge: 3.1034761856166724e-07
+lentivirus: 2.392303136782296e-07
+line: 8.947985930198531e-08
+
+For Division 'To Be Mapped', Region 'To Be Mapped', and MAP_B&B 'MAP':
+Top 5 Keywords for Open Rate:
+therapies: 2.3549667883249096e-07
+usagelimits: 1.3289464945866516e-07
+viral: 1.480498454545107e-07
+visit: 1.4145383184489e-06
+warning: 6.25441775347788e-07
+
+Top 5 Keywords for Click Rate:
+cho: 1.9092431443473664e-07
+therapies: 4.9686252383112625e-08
+vector: 2.392303136782296e-07
+viral: 8.947985930198531e-08
+visit: 1.3679543335952934e-07
+
+For Division 'To Be Mapped', Region 'EMEA', and MAP_B&B 'Batch & Blast':
+Top 5 Keywords for Open Rate:
+free: 2.3549667883249096e-07
+goals: 3.1568651121412396e-06
+https: 2.3540879794570147e-06
+improving: 1.3289464945866516e-07
+manufacturing: 1.480498454545107e-07
+
+Top 5 Keywords for Click Rate:
+fragment: 3.129083810093202e-07
+free: 4.9686252383112625e-08
+innovations: 3.1034761856166724e-07
+knowledge: 2.392303136782296e-07
+manufacturing: 8.947985930198531e-08
+
+For Division 'To Be Mapped', Region 'EMEA', and MAP_B&B 'MAP':
+Top 5 Keywords for Open Rate:
+
+Top 5 Keywords for Click Rate:
+
+For Division 'To Be Mapped', Region 'AMER', and MAP_B&B 'Batch & Blast':
+Top 5 Keywords for Open Rate:
+innovations: 2.3549667883249096e-07
+microseq: 2.3540879794570147e-06
+minutes: 1.3289464945866516e-07
+php: 1.480498454545107e-07
+resiliency: 1.4145383184489e-06
+
+Top 5 Keywords for Click Rate:
+id: 3.129083810093202e-07
+innovations: 4.9686252383112625e-08
+miss: 3.1034761856166724e-07
+net: 2.392303136782296e-07
+php: 8.947985930198531e-08
+
+For Division 'To Be Mapped', Region 'AMER', and MAP_B&B 'MAP':
+Top 5 Keywords for Open Rate:
+usagelimits: 2.3549667883249096e-07
+warning: 1.3289464945866516e-07
+
+Top 5 Keywords for Click Rate:
+accelerate: 5.094464217199197e-08
+dpcr: 1.9092431443473664e-07
+usagelimits: 4.9686252383112625e-08
+
+For Division 'BCD', Region 'APJ', and MAP_B&B 'Batch & Blast':
+Top 5 Keywords for Open Rate:
+explore: 2.3549667883249096e-07
+fermentation: 3.1568651121412396e-06
+free: 2.3540879794570147e-06
+freedom: 1.3289464945866516e-07
+higher: 1.480498454545107e-07
+
+Top 5 Keywords for Click Rate:
+efficient: 4.5544237236372265e-07
+enhance: 3.129083810093202e-07
+explore: 4.9686252383112625e-08
+fully: 3.1034761856166724e-07
+gibco: 2.392303136782296e-07
+
+For Division 'BCD', Region 'APJ', and MAP_B&B 'MAP':
+Top 5 Keywords for Open Rate:
+sourcing: 2.3549667883249096e-07
+translated: 1.3289464945866516e-07
+usagelimits: 1.480498454545107e-07
+used: 1.4145383184489e-06
+vaccine: 6.25441775347788e-07
+
+Top 5 Keywords for Click Rate:
+sourcing: 4.9686252383112625e-08
+try: 2.392303136782296e-07
+usagelimits: 8.947985930198531e-08
+used: 1.3679543335952934e-07
+vaccine: 6.295917243059184e-08
+
+For Division 'BCD', Region 'GC', and MAP_B&B 'Batch & Blast':
+Top 5 Keywords for Open Rate:
+
+Top 5 Keywords for Click Rate:
+dissociation: 2.1744687385539493e-08
+live: 5.094464217199197e-08
+
+For Division 'BCD', Region 'To Be Mapped', and MAP_B&B 'Batch & Blast':
+Top 5 Keywords for Open Rate:
+consistent: 2.3549667883249096e-07
+deserve: 3.1568651121412396e-06
+efficient: 2.3540879794570147e-06
+empower: 1.3289464945866516e-07
+fermentation: 1.480498454545107e-07
+
+Top 5 Keywords for Click Rate:
+cell: 4.5544237236372265e-07
+cells: 3.129083810093202e-07
+consistent: 4.9686252383112625e-08
+explore: 3.1034761856166724e-07
+feed: 2.392303136782296e-07
+
+For Division 'BCD', Region 'To Be Mapped', and MAP_B&B 'MAP':
+Top 5 Keywords for Open Rate:
+scale: 2.3549667883249096e-07
+translate: 1.3289464945866516e-07
+try: 1.480498454545107e-07
+understand: 1.4145383184489e-06
+usagelimits: 6.25441775347788e-07
+
+Top 5 Keywords for Click Rate:
+scale: 4.9686252383112625e-08
+treg: 2.392303136782296e-07
+try: 8.947985930198531e-08
+understand: 1.3679543335952934e-07
+usagelimits: 6.295917243059184e-08
+
+For Division 'BCD', Region 'EMEA', and MAP_B&B 'Batch & Blast':
+Top 5 Keywords for Open Rate:
+try: 2.3549667883249096e-07
+warning: 1.3289464945866516e-07
+
+Top 5 Keywords for Click Rate:
+try: 4.9686252383112625e-08
+
+For Division 'BCD', Region 'EMEA', and MAP_B&B 'MAP':
+Top 5 Keywords for Open Rate:
+seconds: 2.3549667883249096e-07
+translated: 1.3289464945866516e-07
+understand: 1.480498454545107e-07
+usagelimits: 1.4145383184489e-06
+used: 6.25441775347788e-07
+
+Top 5 Keywords for Click Rate:
+seconds: 4.9686252383112625e-08
+try: 2.392303136782296e-07
+understand: 8.947985930198531e-08
+usagelimits: 1.3679543335952934e-07
+used: 6.295917243059184e-08
+
+For Division 'BCD', Region 'AMER', and MAP_B&B 'Batch & Blast':
+Top 5 Keywords for Open Rate:
+culture: 2.3549667883249096e-07
+doc: 3.1568651121412396e-06
+eoy: 2.3540879794570147e-06
+facility: 1.3289464945866516e-07
+hours: 1.480498454545107e-07
+
+Top 5 Keywords for Click Rate:
+cho: 4.5544237236372265e-07
+community: 3.129083810093202e-07
+culture: 4.9686252383112625e-08
+fermentation: 3.1034761856166724e-07
+gibco: 2.392303136782296e-07
+
+For Division 'BCD', Region 'AMER', and MAP_B&B 'MAP':
+Top 5 Keywords for Open Rate:
+poster: 2.3549667883249096e-07
+therapies: 1.3289464945866516e-07
+translate: 1.480498454545107e-07
+translated: 1.4145383184489e-06
+translations: 6.25441775347788e-07
+
+Top 5 Keywords for Click Rate:
+poster: 4.9686252383112625e-08
+toolkit: 2.392303136782296e-07
+translate: 8.947985930198531e-08
+translated: 1.3679543335952934e-07
+translations: 6.295917243059184e-08
+
+For Division 'SUD', Region 'APJ', and MAP_B&B 'Batch & Blast':
+Top 5 Keywords for Open Rate:
+chain: 5.196902111365948e-06
+clean: 4.878415729441451e-06
+consider: 2.3549667883249096e-07
+cost: 3.1568651121412396e-06
+design: 2.3540879794570147e-06
+
+Top 5 Keywords for Click Rate:
+chain: 6.351238206083624e-07
+clean: 4.5544237236372265e-07
+collaboration: 3.129083810093202e-07
+consider: 4.9686252383112625e-08
+disposable: 3.1034761856166724e-07
+
+For Division 'SUD', Region 'APJ', and MAP_B&B 'MAP':
+Top 5 Keywords for Open Rate:
+watch: 2.3549667883249096e-07
+
+Top 5 Keywords for Click Rate:
+watch: 4.9686252383112625e-08
+
+For Division 'SUD', Region 'GC', and MAP_B&B 'MAP':
+Top 5 Keywords for Open Rate:
+
+Top 5 Keywords for Click Rate:
+php: 2.1744687385539493e-08
+
+For Division 'SUD', Region 'To Be Mapped', and MAP_B&B 'Batch & Blast':
+Top 5 Keywords for Open Rate:
+cable: 5.196902111365948e-06
+centrifuge: 4.878415729441451e-06
+clean: 2.3549667883249096e-07
+consider: 3.1568651121412396e-06
+cost: 2.3540879794570147e-06
+
+Top 5 Keywords for Click Rate:
+cable: 6.351238206083624e-07
+centrifuge: 4.5544237236372265e-07
+certified: 3.129083810093202e-07
+clean: 4.9686252383112625e-08
+debate: 3.1034761856166724e-07
+
+For Division 'SUD', Region 'To Be Mapped', and MAP_B&B 'MAP':
+Top 5 Keywords for Open Rate:
+
+Top 5 Keywords for Click Rate:
+
+For Division 'SUD', Region 'EMEA', and MAP_B&B 'Batch & Blast':
+Top 5 Keywords for Open Rate:
+today: 2.3549667883249096e-07
+used: 1.3289464945866516e-07
+vs: 1.480498454545107e-07
+warning: 1.4145383184489e-06
+watch: 6.25441775347788e-07
+
+Top 5 Keywords for Click Rate:
+today: 4.9686252383112625e-08
+visit: 2.392303136782296e-07
+vs: 8.947985930198531e-08
+warning: 1.3679543335952934e-07
+watch: 6.295917243059184e-08
+
+For Division 'SUD', Region 'EMEA', and MAP_B&B 'MAP':
+Top 5 Keywords for Open Rate:
+
+Top 5 Keywords for Click Rate:
+
+For Division 'SUD', Region 'AMER', and MAP_B&B 'Batch & Blast':
+Top 5 Keywords for Open Rate:
+high: 2.3549667883249096e-07
+improve: 3.1568651121412396e-06
+mab: 2.3540879794570147e-06
+manufacturing: 1.3289464945866516e-07
+paper: 1.480498454545107e-07
+
+Top 5 Keywords for Click Rate:
+environmentally: 4.5544237236372265e-07
+excellence: 3.129083810093202e-07
+high: 4.9686252383112625e-08
+minutes: 3.1034761856166724e-07
+net: 2.392303136782296e-07
+
+For Division 'SUD', Region 'AMER', and MAP_B&B 'MAP':
+Top 5 Keywords for Open Rate:
+
+Top 5 Keywords for Click Rate:
+
+For Division 'PPA', Region 'APJ', and MAP_B&B 'Batch & Blast':
+Top 5 Keywords for Open Rate:
+precisely: 2.3549667883249096e-07
+quantify: 1.3289464945866516e-07
+seconds: 1.480498454545107e-07
+time: 1.4145383184489e-06
+today: 6.25441775347788e-07
+
+Top 5 Keywords for Click Rate:
+precisely: 4.9686252383112625e-08
+rt: 2.392303136782296e-07
+seconds: 8.947985930198531e-08
+time: 1.3679543335952934e-07
+today: 6.295917243059184e-08
+
+For Division 'PPA', Region 'APJ', and MAP_B&B 'MAP':
+Top 5 Keywords for Open Rate:
+purification: 2.3549667883249096e-07
+regulatory: 2.3540879794570147e-06
+release: 1.3289464945866516e-07
+results: 1.480498454545107e-07
+scalable: 1.4145383184489e-06
+
+Top 5 Keywords for Click Rate:
+affinity: 1.9092431443473664e-07
+php: 3.129083810093202e-07
+purification: 4.9686252383112625e-08
+residual: 3.1034761856166724e-07
+resolve: 2.392303136782296e-07
+
+For Division 'PPA', Region 'GC', and MAP_B&B 'Batch & Blast':
+Top 5 Keywords for Open Rate:
+
+Top 5 Keywords for Click Rate:
+
+For Division 'PPA', Region 'GC', and MAP_B&B 'MAP':
+Top 5 Keywords for Open Rate:
+
+Top 5 Keywords for Click Rate:
+
+For Division 'PPA', Region 'To Be Mapped', and MAP_B&B 'Batch & Blast':
+Top 5 Keywords for Open Rate:
+orders: 2.3549667883249096e-07
+proviral: 2.3540879794570147e-06
+purification: 1.3289464945866516e-07
+resin: 1.480498454545107e-07
+rt: 1.4145383184489e-06
+
+Top 5 Keywords for Click Rate:
+orders: 4.9686252383112625e-08
+qpcr: 3.1034761856166724e-07
+resdnaseq: 2.392303136782296e-07
+resin: 8.947985930198531e-08
+rt: 1.3679543335952934e-07
+
+For Division 'PPA', Region 'To Be Mapped', and MAP_B&B 'MAP':
+Top 5 Keywords for Open Rate:
+support: 2.3549667883249096e-07
+usagelimits: 1.3289464945866516e-07
+validation: 1.480498454545107e-07
+visit: 1.4145383184489e-06
+warning: 6.25441775347788e-07
+
+Top 5 Keywords for Click Rate:
+support: 4.9686252383112625e-08
+validating: 2.392303136782296e-07
+validation: 8.947985930198531e-08
+visit: 1.3679543335952934e-07
+warning: 6.295917243059184e-08
+
+For Division 'PPA', Region 'EMEA', and MAP_B&B 'Batch & Blast':
+Top 5 Keywords for Open Rate:
+user: 2.3549667883249096e-07
+
+Top 5 Keywords for Click Rate:
+user: 4.9686252383112625e-08
+
+For Division 'PPA', Region 'EMEA', and MAP_B&B 'MAP':
+Top 5 Keywords for Open Rate:
+validating: 2.3549667883249096e-07
+
+Top 5 Keywords for Click Rate:
+validating: 4.9686252383112625e-08
+
+For Division 'PPA', Region 'AMER', and MAP_B&B 'Batch & Blast':
+Top 5 Keywords for Open Rate:
+vector: 2.3549667883249096e-07
+
+Top 5 Keywords for Click Rate:
+vector: 4.9686252383112625e-08
+
+For Division 'PPA', Region 'AMER', and MAP_B&B 'MAP':
+Top 5 Keywords for Open Rate:
+today: 2.3549667883249096e-07
+validating: 1.3289464945866516e-07
+watch: 1.480498454545107e-07
+webinar: 1.4145383184489e-06
+white: 6.25441775347788e-07
+
+Top 5 Keywords for Click Rate:
+today: 4.9686252383112625e-08
+warning: 2.392303136782296e-07
+watch: 8.947985930198531e-08
+webinar: 1.3679543335952934e-07
+white: 6.295917243059184e-08
+
